@@ -1,0 +1,9 @@
+ |   1001 |                    ananda |                     motor |                     pecah |            80080 | 
+ |   1001 |                         a |                         a |                         a |                1 | 
+ |   1002 |                         b |                         b |                         b |                2 | 
+ |   1003 |                         c |                         c |                         c |                3 | 
+ |   1001 |                      jeka |                         a |                         a |                1 | 
+ |   1002 |                         b |                         b |                         b |                2 | 
+ |   1003 |                         c |                         c |                         c |                3 | 
+ |   1001 |                      andi |                  komputer |              banyak virus |            90000 | 
+ |   1002 |                     putri |                 processor |                     pecah |            60000 | 
